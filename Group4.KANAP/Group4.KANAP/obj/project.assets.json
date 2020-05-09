@@ -12939,11 +12939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Baturay Coral\\source\\repos\\Group4.KANAP\\Group4.KANAP\\Group4.KANAP.csproj",
+      "projectUniqueName": "C:\\Users\\Baturay Coral\\repo\\Group4.KANAP\\Group4.KANAP\\Group4.KANAP.csproj",
       "projectName": "Group4.KANAP",
-      "projectPath": "C:\\Users\\Baturay Coral\\source\\repos\\Group4.KANAP\\Group4.KANAP\\Group4.KANAP.csproj",
+      "projectPath": "C:\\Users\\Baturay Coral\\repo\\Group4.KANAP\\Group4.KANAP\\Group4.KANAP.csproj",
       "packagesPath": "C:\\Users\\Baturay Coral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Baturay Coral\\source\\repos\\Group4.KANAP\\Group4.KANAP\\obj\\",
+      "outputPath": "C:\\Users\\Baturay Coral\\repo\\Group4.KANAP\\Group4.KANAP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
